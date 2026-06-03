@@ -4,7 +4,6 @@
 ![Criterion](https://img.shields.io/badge/Testing-Criterion-green.svg)
 ![EPITA](https://img.shields.io/badge/School-EPITA-red.svg)
 
-Ce projet a été réalisé dans le cadre des modules C/UNIX à l'**EPITA** (Assistants 2026).
 Il s'agit du développement d'une version simplifiée de la célèbre fonction `printf(3)` de la bibliothèque standard C.
 
 ## 📝 Description
